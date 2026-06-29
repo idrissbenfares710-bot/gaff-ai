@@ -9,8 +9,8 @@ global.Carousel = Carousel;
 global.AIRich = AIRich;
 
 global.pairingNumber = 212761524771;
-global.owner = [
-[ ['212761524771', 'Idriss ben Fares', true],
+global.owner = 
+	['212761524771', 'Idriss ben Fares', true],
   ['', 'Owner 2', true],
 ];
 
